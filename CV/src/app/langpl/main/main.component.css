@@ -1,0 +1,58 @@
+.rightpanel{
+    width:83.2%;
+    height: 2000px;
+    float: right;
+    background-color:rgba(0, 0, 0, 0.886) ; 
+    color: white;
+}
+.me{
+    height: 250px;
+    position: relative;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.233);
+    padding-left: 70px;
+}
+.name{
+    width: 30%;
+    float: left;
+    margin-top: 50px;
+    padding: 20px;
+}
+.project{
+    width: 35%;
+    float: right;
+    margin: 15px 0px 0px 0px;
+    font-size: 10px;
+}
+.experience{
+    display: block;
+    width: 100%;
+    padding: 20px;
+}
+.experience-info{
+    display: block;
+    content: " ";
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid white;
+    font-size: 10px;
+}
+.school{
+    display: block;
+    width: 100%;
+    padding: 20px;
+}
+.school-info{
+    display: block;
+    content: " ";
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid white;
+    font-size: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
